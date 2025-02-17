@@ -13,6 +13,6 @@
 
 #### Sobre Mim:
 Tenho 20 anos, moro em Recife-pe, aluno do Embarque Digital/Porto Digital na Universidade Tiradentes - UNIT.
-Sempre adorei a área de tecnologia, um dos meus objetivos é atuar como Full Stack.
+Sempre adorei a área de tecnologia, um dos meus objetivos é atuar na área de CyberSecurity
 
 
